@@ -1,2 +1,13 @@
 # solutionsEng
-here's my repo for all things solutions eng!
+here's my repo for all things solutions eng! here's a list of projects i've done on my own to show off my skills~
+* i built an api integration between two SaaS products, automating event-driven notifications (check out the slack channel for it <a href="https://app.slack.com/client/T08K3B6TRME/C08K3B77XS4?ssb_vid=.0526d3eb55a494e2b41bfd7243e3fb7f&entry_point=workspace_switcher">here</a>.)
+
+## why do i want to transition into solutions engineering?
+i’m passionate about combining technical expertise with problem-solving to deliver solutions that address real-world business challenges. throughout my career as an sdet, i’ve honed my skills in api integrations, automation, and cloud technologies, while also collaborating closely with cross-functional teams to optimize system performance. what excites me most about transitioning into a solutions engineer role is the opportunity to work directly with clients, understand their pain points, and design tailored solutions that not only meet their needs but also drive measurable business outcomes.
+
+i thrive in roles where i can bridge the gap between technical teams and customers, translating complex requirements into actionable solutions. my experience conducting technical demos, proof of concepts (pocs), and troubleshooting integration challenges has prepared me to excel in this role. i’m eager to leverage my technical background and customer-focused approach to add value to your team by ensuring that clients receive seamless, scalable solutions that align with their business goals.
+
+## do i have iPaaS experience?
+while i haven’t had direct experience working with a dedicated ipaas platform, i’ve extensively worked with apis, cloud environments, and data integration processes that closely align with ipaas functionality. in my role as a senior sdet at maven clinic, i collaborated with cross-functional teams to design and automate workflows that integrated rest apis and cloud-based services, ensuring seamless data exchange between applications. this experience involved troubleshooting api errors, ensuring data integrity, and enhancing automation frameworks to increase efficiency by 40%.
+
+additionally, i’ve had exposure to managing ci/cd pipelines and working with cloud platforms like aws, which has given me a solid foundation in building and maintaining scalable integrations. i’m confident that my experience in api integration, data flow management, and troubleshooting technical workflows positions me well to quickly learn and excel in an ipaas environment. i’m eager to apply my technical expertise and adaptability to ensure smooth, automated integrations that align with business goals.
